@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/CoroutineClient",
+    "name": "at_server/coroutineclient",
     "description": "CoroutineClient",
     "license": "MIT",
     "type": "library",
